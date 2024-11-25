@@ -1,0 +1,2 @@
+# wiz
+My personal repository
