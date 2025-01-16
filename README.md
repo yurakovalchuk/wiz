@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yurii!  
 
 ## About Me  
-I'm a 20-year-old passionate learner from Ukraine, diving deep into the world of IT and startups. I have a strong interest in:  
+I'm a 21-year-old passionate learner from Ukraine, diving deep into the world of IT and startups. I have a strong interest in:  
 - 📚 Studying biographies of inspiring people.  
 - 🎥 Exploring movies, non-fiction, and fiction books.  
 - 💻 Pursuing a career in Python development to combine technical skills with creative problem-solving.  
